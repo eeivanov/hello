@@ -4,3 +4,4 @@ Tvoi deffchenki kak s kartinki
 New stroka
 
 Hello, Git!
+Hello, Git rebase!
