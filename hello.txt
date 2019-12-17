@@ -2,3 +2,5 @@ Privet Medved
 Ved ti uge vzrosliy
 Tvoi deffchenki kak s kartinki
 New stroka
+
+Hello, Git!
